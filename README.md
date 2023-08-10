@@ -11,4 +11,6 @@
 - ⚡ Fun fact: I'm AIdIoT.
   
 - I'm wondering:
-  - Why are some stuffs reversible and some not?
+  - Why are some processes reversible and some are not?
+  - Why we have self-consciousness?
+  - ...
