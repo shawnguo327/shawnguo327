@@ -9,3 +9,6 @@
 - 🤔 I’m looking for help with LIFE.
 - 📫 How to reach me: notguoshangyi@outlook.com
 - ⚡ Fun fact: I'm AIdIoT.
+  
+- I'm wondering:
+  - Why are some stuffs reversible and some not?
