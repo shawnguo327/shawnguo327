@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Neuro AI, Causal AI, CV... And I'm working on some deep learning projects(generative models and more).
 - 👯 I’m looking for a Master's position 2024fall.
 - 🤔 I’m looking for help with LIFE.
-- 📫 How to reach me: notguoshangyi@outlook.com
+- 📫 How to reach me: notguoshangyi@outlook.com  & my personal page:[captaincccp](https://captaincccp.github.io/)
 - ⚡ Fun fact: I'm AIdIoT.
   
 - I'm wondering:
