@@ -13,5 +13,5 @@
 - I'm wondering:
   - Why are some processes reversible and some are not?
   - Is iid plus iid still iid?
-  - Why we have self-consciousness?
   - 
+  - Why we have self-consciousness?
