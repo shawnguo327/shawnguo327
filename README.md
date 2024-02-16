@@ -5,13 +5,6 @@
 
 - 🔭 I’m a senier student majoring Internet of Things in Beijing University of Technology.
 - 🌱 I’m currently learning Neuro AI, Causal AI, CV... And I'm working on some deep learning projects(generative models and more).
-- 👯 I’m looking for a Master's position 2024fall.
-- 🤔 I’m looking for help with LIFE.
+- 👯 I’m looking for a Master's position fall 2024.
 - 📫 How to reach me: notguoshangyi@outlook.com  & my personal page:[captaincccp](https://captaincccp.github.io/)
 - ⚡ Fun fact: I'm AIdIoT.
-  
-- I'm wondering:
-  - Why are some processes reversible and some are not?
-  - Is iid plus iid still iid?
-  - 
-  - Why we have self-consciousness?
