@@ -6,5 +6,5 @@
 - 🔭 Master's: Applied Urban Science & Informatics, NYU Tandon;    BS: IoT Eng in Beijing University of Technology.
 - 🌱 I’m currently learning Causal Inference, Neuro AI, Generative AI, Computer Vision...
 - 🛠 I'm a CTO of a little start up in Music rating system.
-- 📫 How to reach me: shangyi.guo@nyu.edu  [my blog](https://captaincccp.github.io/)  &  [my profolio](https://shangyiguo.work/) 
+- 📫 How to reach me: shangyi.guo@nyu.edu & [my blog](https://captaincccp.github.io/)  &  [my profolio](https://shangyiguo.work/) 
 - ⚡ Fun fact: I'm AIdIoT.
